@@ -33,17 +33,17 @@ Ethics Papers
 
 ### [The Ethics of Copying Code](/pdf/Brayden Kirkland - Copying Code Ethics Paper.pdf)
 
--   **Class:** CSCI 301 
--   **Grade:** 100%
+-   **Class:** CSCI 301 - Survey of Scripting Languages
+-   **Grade:** 
 
 ### [The Ethics of Software Testing](/pdf/Brayden Kirkland - Software Testing Ethics Paper.pdf)
 
--   **Class:** CSCI 315
+-   **Class:** CSCI 315 - Data Structure Analysis
 -   **Grade:** 92%
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [The Ethical Dilemmas of Cybersecurity and Applied Computing](/pdf/Ethics Paper - Brayden Kirkland.pdf)
 
--   **Class:** 
+-   **Class:** CSCI 325 - Object-oriented Programming
 -   **Grade:**
 
 ---
