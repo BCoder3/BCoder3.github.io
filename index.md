@@ -31,12 +31,12 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [The Ethics of Copying Code](/pdf/sample_presentation.pdf)
+### [The Ethics of Copying Code](/pdf/Brayden Kirkland - Copying Code Ethics Paper.pdf)
 
 -   **Class:** CSCI 301 
 -   **Grade:** 100%
 
-### [The Ethics of Software Testing](/pdf/sample_presentation.pdf)
+### [The Ethics of Software Testing](/pdf/Brayden Kirkland - Software Testing Ethics Paper.pdf)
 
 -   **Class:** CSCI 315
 -   **Grade:** 92%
