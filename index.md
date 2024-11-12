@@ -51,15 +51,15 @@ Ethics Papers
 Presentations
 -------------
 
-### [Programming in Alice Final Project - Genesis](/pdf/sample_presentation.pdf)
+### [Programming in Alice Final Project - Genesis](https://www.youtube.com/watch?v=ReXckIjtU-E)
 
-- **Class:** Programming in Alice
+- **Class:** CSCI 215 - Programming in Alice
 - **Grade:** 
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Statistics Calculator](https://www.youtube.com/watch?v=B2Lx_0Ji350)
 
-- **Class:** 
+- **Class:** CSCI 325 - Objecting-oriented Programming
 - **Grade:**
 
 ---
