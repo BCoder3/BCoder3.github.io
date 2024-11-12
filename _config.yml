@@ -8,8 +8,8 @@ description: > # your text below (remove <br /> elements if you don't need line 
   Bachelor of Arts in Applied Computing (class of 2026)
   <br /><br />
   <a href="https://example.com/resume">View My Resume</a>
-  <br /><br />
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a>
+#  <br /><br />
+#  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a>
 repository: "BCoder3/Bcoder3.github.io"
 github_username:  BCoder3 # update with your username
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
