@@ -34,17 +34,17 @@ Ethics Papers
 ### [The Ethics of Copying Code](/pdf/Brayden Kirkland - Copying Code Ethics Paper.pdf)
 
 -   **Class:** CSCI 301 - Survey of Scripting Languages
--   **Grade:** 
+-   **Grade:** A
 
 ### [The Ethics of Software Testing](/pdf/Brayden Kirkland - Software Testing Ethics Paper.pdf)
 
 -   **Class:** CSCI 315 - Data Structure Analysis
--   **Grade:** 92%
+-   **Grade:** A
 
 ### [The Ethical Dilemmas of Cybersecurity and Applied Computing](/pdf/Ethics Paper - Brayden Kirkland.pdf)
 
 -   **Class:** CSCI 325 - Object-oriented Programming
--   **Grade:**
+-   **Grade:** A
 
 ---
 
@@ -54,13 +54,13 @@ Presentations
 ### [Programming in Alice Final Project - Genesis](https://www.youtube.com/watch?v=ReXckIjtU-E)
 
 - **Class:** CSCI 215 - Programming in Alice
-- **Grade:** 
+- **Grade:** A
 
 
 ### [Statistics Calculator](https://www.youtube.com/watch?v=B2Lx_0Ji350)
 
 - **Class:** CSCI 325 - Objecting-oriented Programming
-- **Grade:**
+- **Grade:** A
 
 ---
 
