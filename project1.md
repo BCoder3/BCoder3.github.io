@@ -1,34 +1,32 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+File Helper
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
+-   **Class:** CSCI 315: Data Structure Analysis
+-   **Grade:** B
+-   **Language(s):** C++
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The File Helper project is a program that maps integer IDs with a set of first names and last names. This map is designed to be used to store and access the collected data in a quick and efficient manner.
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
+A makefile is included in the implementation of this project, which only requires the command "make" to compile the program. To run, use the command "make run", which also compiles the program again before running, if necessary.
 
 ```bash
-cd ./project
-python setup.py
+make
+make run
 ```
-
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
 
 ## UI Design
 
 Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+The program is not inherently designed to accept user input, but can be easily adjusted to do so. The program's main function is to iterate through given text files
 
 ![screenshot](images/dummy_thumbnail.jpg)  
 Fig 1. The launch screen
