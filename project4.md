@@ -28,18 +28,12 @@ Throughout the running of the program, the narrative text will ask the user to o
 
 Most of the user interface is made up of narrative text on a command line interface, and ASCII art, which are art pieces created using text characters.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/Project_4_example.png)  
+Fig 1. An example of ASCII art, text, and user interactivity found throughout the program.
 
 ## 3. Additional Considerations
 
-All ASCII art used for this project are not our original works, and were gathered on a free-source, ASCII art website.
+All ASCII art used for this project are not our original works, and were gathered on a free-source, ASCII art website. The program here can also be combined with other narrative stories that use the same format.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
