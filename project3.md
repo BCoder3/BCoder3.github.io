@@ -24,14 +24,14 @@ make run
 
 ## UI Design
 
-The program is not inherently designed to accept user input, but can be adjusted to do so. The program's main function is to iterate through specifically formatted, given text files of sets of numbers.
+The program's UI is limited to command-line interface, with little user interactivity. The program's main function is to iterate through specifically formatted, given text files of sets of numbers.
 
 ![screenshot](images/Project_3_fig_1.png)  
 Fig 1. The launch screen
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+The program is not inherently designed to accept user input, but can be adjusted to do so.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
