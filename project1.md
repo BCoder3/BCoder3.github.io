@@ -26,7 +26,7 @@ make run
 
 The program is not inherently designed to accept user input, but can be easily adjusted to do so. The program's main function is to iterate through given text files and map each given first and last name to an integer id for easy storage and access.
 
-![screenshot](images/Screenshot 2024-11-18 223302.png)  
+![screenshot](images/Screenshot_2024-11-18_223302.png)  
 Fig 1. A successful test of the program
 
 ## 3. Additional Considerations
