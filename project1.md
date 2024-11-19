@@ -24,7 +24,7 @@ make run
 
 ## UI Design
 
-The program is not inherently designed to accept user input, but can be easily adjusted to do so. The program's main function is to iterate through given text files and map each given first and last name to an integer id for easy storage and access.
+The program is not inherently designed to accept user input, but can be adjusted to do so. The program's main function is to iterate through given text files and map each given first and last name to an integer id for easy storage and access.
 
 ## 3. Additional Considerations
 
