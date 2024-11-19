@@ -24,12 +24,14 @@ make run
 
 ## UI Design
 
-The program is not inherently designed to accept user input, but can be adjusted to do so. The program's main function is to iterate through given HTML files and parse each one to find if they are balanced, and to count how many other files can be visited through each, not including duplicate files.
+The program's UI is limited to command-line interface, with little user interactivity. The program's main function is to iterate through given HTML files and parse each one to find if they are balanced, and to count how many other files can be visited through each, not including duplicate files.
 
 ![screenshot](images/Project_2_fig_1.png)  
 Fig 1. The UI Design
 
 ## 3. Additional Considerations
+
+The program is not inherently designed to accept user input, but can be adjusted to do so.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
