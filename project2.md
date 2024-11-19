@@ -24,18 +24,10 @@ make run
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
-
 The program is not inherently designed to accept user input, but can be adjusted to do so. The program's main function is to iterate through given HTML files and parse each one to find if they are balanced, and to count how many other files can be visited through each, not including duplicate files.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/project_2_fig_1)  
+Fig 1. The UI Design
 
 ## 3. Additional Considerations
 
