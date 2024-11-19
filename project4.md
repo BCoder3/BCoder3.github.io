@@ -6,7 +6,7 @@ Choose Your Own Adventure
 -   **Class:** CSCI 325
 -   **Grade:** A
 -   **Language(s):** Java
--   **Source Code Repository:** [BCoder3/Brayden-K-csci-portfolio](https://github.com/BCoder3/source-code-repo-for-portfolio)  
+-   **Source Code Repository:** [BCoder3/project-4-source-code](https://github.com/BCoder3/project-4-source-code/tree/master)  
     (Please [email me](mailto:BMKirkland@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
