@@ -17,8 +17,6 @@ Programming Projects
 ---
 ### [Minimum Overlap | CSCI 315](project3)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
-
 ---
 ### [Choose Your Own Adventure | CSCI 325](project4)
 
