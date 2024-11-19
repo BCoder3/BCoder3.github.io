@@ -20,7 +20,7 @@ Programming Projects
 ---
 ### [Choose Your Own Adventure | CSCI 325](project4)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 4 Thumbnail Name](images/Project_4_preview.png)
 
 ---
 
