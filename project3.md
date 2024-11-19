@@ -1,28 +1,24 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Minimum Overlap
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
+-   **Class:** CSCI 315
+-   **Grade:** B
+-   **Language(s):** C++
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The Minimum Overlap Program is designed to take input as a text file containing mulitple groups of numbers, called sets. The program then finds the minimum overlap of how many sets must be chosen so that every number in the file is chosen at least once. The program also generates timing data to display the time taken to calculate the minimum overlap for any given set.
 
 ## How to compile and run the program
-
-How to compile (if applicable) and run the project.
 
 ```bash
 cd ./project
 python setup.py
 ```
-
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
 
 ## UI Design
 
