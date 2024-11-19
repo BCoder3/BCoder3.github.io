@@ -6,7 +6,7 @@ Minimum Overlap
 -   **Class:** CSCI 315
 -   **Grade:** B
 -   **Language(s):** C++
--   **Source Code Repository:** [BCoder3/Brayden-K-csci-portfolio](https://github.com/BCoder3/source-code-repo-for-portfolio)  
+-   **Source Code Repository:** [BCoder3/project-3-source-code](https://github.com/BCoder3/project-3-source-code/tree/master)  
     (Please [email me](mailto:BMKirkland@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
