@@ -9,12 +9,10 @@ Programming Projects
 ---
 ### [File Helper | CSCI 315](project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
-
 ---
 ### [HTML Parser | CSCI 315](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/Project_2_fig_1.png)
 
 ---
 ### [Minimum Overlap | CSCI 315](project3)
