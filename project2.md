@@ -6,8 +6,8 @@ HTML Parser
 -   **Class:** CSCI 315
 -   **Grade:** B
 -   **Language(s):** C++
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Source Code Repository:** [BCoder3/Brayden-K-csci-portfolio](https://github.com/BCoder3/source-code-repo-for-portfolio)  
+    (Please [email me](mailto:BMKirkland@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
