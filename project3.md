@@ -31,7 +31,7 @@ Fig 1. The launch screen
 
 ## 3. Additional Considerations
 
-The program is not inherently designed to accept user input, but can be adjusted to do so.
+The program is not inherently designed to accept user input, but can be adjusted to do so. Additionally, gnuplot must be installed on the operating machine to generate timing data.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
