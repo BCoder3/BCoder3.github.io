@@ -11,24 +11,22 @@ Choose Your Own Adventure
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The project photos and code in the source code repository are only a portion of the work done for this team project. Together, we wrote the code for this program to create a game that a user could play to experience a narrative of our own conception, and each of us wrote our own story. Included here is my portion of our work on the user-choice-driven narrative adventure, utilizing ASCII art.
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
+In order to compile and run this program, Java must be installed on the machine intended to run it. To run from a Windows command line, ensure that the active directory in the prompt contains the Story.java file. Next, use the following commands:
 
 ```bash
-cd ./project
-python setup.py
+javac Story.java
+java Story
 ```
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+Throughout the running of the program, the narrative text will ask the user to occasionally choose "path A" or "path B". All the user need do is enter either letter "A" or "B", upper or lowercase, and enter, to continue down their chosen path of adventure.
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
-
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+Most of the user interface is made up of narrative text on a command line interface, and ASCII art, which are art pieces created using text characters.
 
 ![screenshot](images/dummy_thumbnail.jpg)  
 Fig 1. The launch screen
@@ -41,7 +39,7 @@ Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+All ASCII art used for this project are not our original works, and were gathered on a free-source, ASCII art website.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
