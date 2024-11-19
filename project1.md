@@ -24,9 +24,7 @@ make run
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
-
-The program is not inherently designed to accept user input, but can be easily adjusted to do so. The program's main function is to iterate through given text files
+The program is not inherently designed to accept user input, but can be easily adjusted to do so. The program's main function is to iterate through given text files and map each given first and last name to an integer id for easy storage and access.
 
 ![screenshot](images/dummy_thumbnail.jpg)  
 Fig 1. The launch screen
@@ -39,7 +37,7 @@ Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+This project includes the ability to manipulate stored data by way of addition of new data, and the removal of existing data.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
