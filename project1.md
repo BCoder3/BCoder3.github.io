@@ -15,7 +15,7 @@ The File Helper project is a program that maps integer IDs with a set of first n
 
 ## How to compile and run the program
 
-A makefile is included in the implementation of this project, which only requires the command "make" to compile the program. To run, use the command "make run", which also compiles the program again before running, if necessary.
+The program's UI is limited to command-line interface, with little user interactivity. A makefile is included in the implementation of this project, which only requires the command "make" to compile the program. To run, use the command "make run", which also compiles the program again before running, if necessary.
 
 ```bash
 make
