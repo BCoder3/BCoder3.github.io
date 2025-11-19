@@ -1,6 +1,8 @@
 Senior Portfolio Template for CSCI 496
 ======================================
 
+[Brayden's Live Portfolio Website](https://bcoder3.github.io/)
+
 ## Introduction
 
 Use this template to create your senior portfolio using GitHub Pages!
