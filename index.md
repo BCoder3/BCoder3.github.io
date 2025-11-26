@@ -5,6 +5,8 @@ Programming Projects
 --------------------
 
 *For access to my private project repositories, please [email me](mailto:bmkirkland@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
+---
+### [Defense Documentation](Defense_Documentation_Brayden_Kirkland)
 
 ---
 ### [File Helper | CSCI 315](project1)
