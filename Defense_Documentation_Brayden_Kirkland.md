@@ -859,11 +859,10 @@ realize my visions.
 
 # **10. Defense Presentation Slides**
 
-[[Puzzleheart - Project Presentation - Brayden Kirkland.pptx -
-    Google
-    Slides]{.underline}](https://docs.google.com/presentation/d/1ftQpa0dji_PQXE9CT6avoCWAySOyYQOd/edit?slide=id.p1#slide=id.p1)
+[Puzzleheart - Project Presentation - Brayden Kirkland.pptx - Google Slides](https://docs.google.com/presentation/d/1ftQpa0dji_PQXE9CT6avoCWAySOyYQOd/edit?slide=id.p1#slide=id.p1)
 
 [Back to Portfolio](./)
+
 
 
 
