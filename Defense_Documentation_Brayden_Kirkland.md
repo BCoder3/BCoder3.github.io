@@ -703,36 +703,15 @@ the properties of test environment: hardware, software, network etc.)
 
 **Unit Test Cases**
 
-  ---------------------------------------------------------------------------
-  **\#**   **OBJECTIVE**   **INPUT**      **EXPECTED         **TEST
-                                          RESULTS**          DELIVERABLES**
-  -------- --------------- -------------- ------------------ ----------------
-  1        Check           Procedural     Generated game     Playable game
-           procedural      Generation     world functions    world
-           generation      code           and map            
-                                          randomization      
-
-  2        Check puzzle    Puzzle         Generated puzzles  Game can be
-           solvability     coding +       can be solved      completed
-                           procedural                        
-                           generation                        
-
-  3        Check player    W, A, S, and D Player avatar      Player can move
-           movement        keys press     moves in desired   in desired
-                                          direction          direction
-
-  4        Check world     E key press    Player interacts   Player can
-           interaction                    with object        interact
-
-  5        Check camera    Mouse movement Camera moves with  Player can look
-           movement                       mouse motion       around
-
-  6        Game can be run Developer      Game runs without  Game runs
-                           feature        issue              
-
-  7        Game can be     Developer      Game can be edited Game can be
-           edited          feature        without issue      edited
-  ---------------------------------------------------------------------------
+| #  | OBJECTIVE             | INPUT             | EXPECTED RESULTS                          | TEST DELIVERABLES   |
+|----|-----------------------|-------------------|-------------------------------------------|---------------------|
+| 1  | Check procedural generation | Procedural Generation code | Generated game world functions and map randomization | Playable game world |
+| 2  | Check puzzle solvability | Puzzle coding + procedural generation | Generated puzzles can be solved | Game can be completed |
+| 3  | Check player movement | W, A, S, and D keys press | Player avatar moves in desired direction | Player can move in desired direction |
+| 4  | Check world interaction | E key press | Player interacts with object | Player can interact |
+| 5  | Check camera movement | Mouse movement | Camera moves with mouse motion | Player can look around |
+| 6  | Game can be run | Developer feature | Game runs without issue | Game runs |
+| 7  | Game can be edited | Developer feature | Game can be edited without issue | Game can be edited |
 
 **User-Acceptance Test**
 
@@ -798,20 +777,13 @@ Test Results are displayed by Subject, with data from cases 1-3
 directly referencing rows 2-4 in above User-Acceptance Test Cases.
 
 
-  -----------------------------------------------------------------------
-  **SUBJECT**             **FIRST PLAYTHROUGH     **SECOND PLAYTHROUGH
-                          TIME**                  TIME**
-  ----------------------- ----------------------- -----------------------
-  A                       3:21                    2:40
-
-  B                       5:43                    3:49
-
-  C                       4:10                    3:30
-
-  D                       3:57                    3:10
-
-  E                       3:40                    2:44
-  -----------------------------------------------------------------------
+| SUBJECT | FIRST PLAYTHROUGH TIME | SECOND PLAYTHROUGH TIME |
+|---------|------------------------|-------------------------|
+| A       | 3:21                   | 2:40                    |
+| B       | 5:43                   | 3:49                    |
+| C       | 4:10                   | 3:30                    |
+| D       | 3:57                   | 3:10                    |
+| E       | 3:40                   | 2:44                    |
 
 # **8. Challenges Overcome**
 
@@ -837,6 +809,7 @@ realize my visions.
 [Puzzleheart - Project Presentation - Brayden Kirkland.pptx - Google Slides](https://docs.google.com/presentation/d/1ftQpa0dji_PQXE9CT6avoCWAySOyYQOd/edit?slide=id.p1#slide=id.p1)
 
 [Back to Portfolio](./)
+
 
 
 
