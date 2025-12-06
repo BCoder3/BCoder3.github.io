@@ -2,23 +2,23 @@
 
 ## **Defense Documentation**
 
-1.  [Statement of Purpose (with the Problem Statement)](#1--statement-of-purpose)
+1.  [Statement of Purpose (with the Problem Statement)](#1-statement-of-purpose)
 
-2.  [Research & Background](#2--research-&-background)
+2.  [Research & Background](#2-research-&-background)
 
-3.  [Project Language(s), Software, and Hardware](#3--project-languages-software-and-hardware)
+3.  [Project Language(s), Software, and Hardware](#3-project-languages-software-and-hardware)
 
-4.  [Project Requirements](#4--project-requirements)
+4.  [Project Requirements](#4-project-requirements)
 
-5.  [Project Implementation Description & Explanation](#5--project-implementation-description--explanation)
+5.  [Project Implementation Description & Explanation](#5-project-implementation-description--explanation)
 
-6.  [Test Plan](#6--test-plan)
+6.  [Test Plan](#6-test-plan)
 
-7.  [Test Results](#7--test-results)
+7.  [Test Results](#7-test-results)
 
-8.  [Challenges Overcome](#8--challenges-overcome)
+8.  [Challenges Overcome](#8-challenges-overcome)
 
-9.  [Future Enhancements](#9--future-enhancements)
+9.  [Future Enhancements](#9-future-enhancements)
 
 10. [Defense Presentation Slides](#10-defense-presentation-slides)
 
@@ -647,7 +647,7 @@ Supporting Materials:
 
 History: Development Logs
 
-# **5.  Project Implementation, Description, and Explanation**
+# **5. Project Implementation, Description, and Explanation**
 
 ![screenshot](images/Screenshot_2025-12-04_223445.png)  
 Fig 1. An example of different map generation possibilities
@@ -670,7 +670,7 @@ Puzzle Heart is a video game that revolves around solving puzzles in a
 procedurally generated, digital world. Its purpose is for entertainment
 and to challenge the user\'s problem-solving abilities.
 
-# **6.  Test Plan**
+# **6. Test Plan**
 
 The purpose of the Puzzle Heart video game study is to evaluate the
 problem-solving skills required to complete the game, with every
@@ -817,7 +817,7 @@ Bulk testing to be undertaken between 11/20-23/25
 See Requirements Document for specifics on the development process and
 the goals of this project.
 
-# **7.  Test Results**
+# **7. Test Results**
 
 Test Results are displayed by Subject, with data from cases 1-3
 directly referencing rows 2-4 in above User-Acceptance Test Cases.
@@ -864,6 +864,7 @@ realize my visions.
     Slides]{.underline}](https://docs.google.com/presentation/d/1ftQpa0dji_PQXE9CT6avoCWAySOyYQOd/edit?slide=id.p1#slide=id.p1)
 
 [Back to Portfolio](./)
+
 
 
 
