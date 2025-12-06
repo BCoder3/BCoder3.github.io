@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-**Defense Documentation**
+## **Defense Documentation**
 
 1.  Statement of Purpose (with the Problem Statement)
 
@@ -656,17 +656,17 @@ History: Development Logs
 
 6.  
 
-### **Product**
+## **Product**
 
 - Product Name: Puzzle Heart Video Game
 
-### **Project Description**
+# **Project Description**
 
 Puzzle Heart is a video game that revolves around solving puzzles in a
 procedurally generated, digital world. Its purpose is for entertainment
 and to challenge the user\'s problem-solving abilities.
 
-### **Testing Objectives**
+# **Testing Objectives**
 
 The purpose of the Puzzle Heart video game study is to evaluate the
 problem-solving skills required to complete the game, with every
@@ -675,7 +675,7 @@ game to the best of their ability and as fast as they can. Test
 operators will also be given a short survey to complete after their
 experience for feedback purposes.
 
-### **Features to be Tested**
+# **Features to be Tested**
 
 The running state of the Puzzle Heart video game is the main feature to
 be tested. Within this facet of the project there are many other
@@ -683,19 +683,19 @@ subfeatures to be tested, such as ensuring that the procedural
 generation of the world does not hinder the flow of gameplay, and to
 ensure that every puzzle is sovlable.
 
-### **Features Not to Be Tested**
+# **Features Not to Be Tested**
 
 The engine of the game\'s creation does not need to be tested in this
 test plan.
 
 ## **UNIT TEST**
 
-### **UNIT TEST STRATEGY / EXTENT OF UNIT TESTING:**
+# **Unit Test Strategy / Extent of Unit Testing:**
 
 Evaluate new features and bug fixes introduced in this release. (Specify
 the properties of test environment: hardware, software, network etc.)
 
-### **UNIT TEST CASES**
+# **Unit Test Cases**
 
   ---------------------------------------------------------------------------
   **\#**   **OBJECTIVE**   **INPUT**      **EXPECTED         **TEST
@@ -728,7 +728,7 @@ the properties of test environment: hardware, software, network etc.)
            edited          feature        without issue      edited
   ---------------------------------------------------------------------------
 
-## **USER-ACCEPTANCE TEST**
+# **User-Acceptance Test**
 
 In order to test for User-acceptance, users designated to test the
 Puzzle Heart video game will be asked to complete the game at their own
@@ -739,7 +739,7 @@ their experience of the game. This process will be repeated using the
 same seed recreate the game world originally played on, and the
 time-to-completion for both runs will be compared
 
-### **User-Acceptance Test Strategy**
+# **User-Acceptance Test Strategy**
 
 The user will be informed of their goal to complete within the game, and
 then start the game. The game will always be able to be completed, and
@@ -748,7 +748,7 @@ the puzzle minigames, and the seed of the world. A timer that will
 record how long it takes for the user to complete the objective will be
 displayed at all times during gameplay
 
-### **User-Acceptance Test Cases**
+# **User-Acceptance Test Cases**
 
   -------------------------------------------------------------------------
   **\#**   **TEST ITEM**     **EXPECTED         **ACTUAL      **DATE**
@@ -782,7 +782,7 @@ displayed at all times during gameplay
                                                 experience    
   -------------------------------------------------------------------------
 
-## **Test Deliverables**
+# **Test Deliverables**
 
 - Test Plan
 
@@ -792,11 +792,11 @@ displayed at all times during gameplay
 
 - Test Result Reports are to be determined
 
-## **Schedule**
+# **Schedule**
 
 Bulk testing to be undertaken between 11/20-23/25
 
-## **Risks**
+# **Risks**
 
 - Machine used to run the game for the intentions to complete the
   objectives of this test plan may be unfit in terms of hardware
@@ -806,13 +806,14 @@ Bulk testing to be undertaken between 11/20-23/25
   lower-hardware machines and the machine especially chosen to run the
   test cases should be fit if possible
 
-## **Appendix**
+# **Appendix**
 
 See Requirements Document for specifics on the development process and
 the goals of this project.
 
 7.  Test Results are displayed by Subject, with data from cases 1-3
     directly referencing rows 2-4 in above User-Acceptance Test Cases.
+
 
   -----------------------------------------------------------------------
   **SUBJECT**             **FIRST PLAYTHROUGH     **SECOND PLAYTHROUGH
@@ -849,5 +850,6 @@ the goals of this project.
     Slides]{.underline}](https://docs.google.com/presentation/d/1ftQpa0dji_PQXE9CT6avoCWAySOyYQOd/edit?slide=id.p1#slide=id.p1)
 
 [Back to Portfolio](./)
+
 
 
