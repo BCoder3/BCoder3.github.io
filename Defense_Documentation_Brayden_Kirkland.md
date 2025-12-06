@@ -648,13 +648,20 @@ Supporting Materials:
 
 History: Development Logs
 
-5.  a.  Screenshots to be taken
+5.  Screenshots:
 
-    b.  [[BCoder3/SeniorProjectUnrealEngine: Repository containing the
-        unreal engine project that comprises my senior
-        project.]{.underline}](https://github.com/BCoder3/SeniorProjectUnrealEngine/tree/main)
+![screenshot](images/Screenshot_2025-12-04_223445.png)  
+Fig 1. An example of different map generation possibilities
 
-6.  
+![screenshot](images/Screenshot_2025-12-04_223522.png)  
+Fig 2. An example of different map generation possibilities
+
+![screenshot](images/Screenshot_2025-12-04_223543.png)  
+Fig 3. An example of different map generation possibilities
+
+[[BCoder3/SeniorProjectUnrealEngine: Repository containing the unreal engine project that comprises my senior project.]{.underline}](https://github.com/BCoder3/SeniorProjectUnrealEngine/tree/main)
+
+7.  
 
 ## **Product**
 
@@ -850,6 +857,7 @@ the goals of this project.
     Slides]{.underline}](https://docs.google.com/presentation/d/1ftQpa0dji_PQXE9CT6avoCWAySOyYQOd/edit?slide=id.p1#slide=id.p1)
 
 [Back to Portfolio](./)
+
 
 
 
