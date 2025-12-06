@@ -641,7 +641,7 @@ Supporting Materials:
 
 History: Development Logs
 
-5.  Screenshots:
+## **5.  Project Implementation, Description, and Explanation**
 
 ![screenshot](images/Screenshot_2025-12-04_223445.png)  
 Fig 1. An example of different map generation possibilities
@@ -654,9 +654,7 @@ Fig 3. An example of different map generation possibilities
 
 [[BCoder3/SeniorProjectUnrealEngine: Repository containing the unreal engine project that comprises my senior project.]{.underline}](https://github.com/BCoder3/SeniorProjectUnrealEngine/tree/main)
 
-7.  
-
-## **Product**
+# **Product**
 
 - Product Name: Puzzle Heart Video Game
 
@@ -666,14 +664,18 @@ Puzzle Heart is a video game that revolves around solving puzzles in a
 procedurally generated, digital world. Its purpose is for entertainment
 and to challenge the user\'s problem-solving abilities.
 
-# **Testing Objectives**
+## **6.  Test Plan**
 
 The purpose of the Puzzle Heart video game study is to evaluate the
 problem-solving skills required to complete the game, with every
 playthrough being timed. Test users will be instructed to complete the
 game to the best of their ability and as fast as they can. Test
 operators will also be given a short survey to complete after their
-experience for feedback purposes.
+experience for feedback purposes. For the test results included below,
+testers tasked with completing two playthroughs of the game, both timed.
+The second playthrough is to be done using the same seed as the first in
+order to generate the same game map, and then the times of completion of
+both of these playthroughs are compared, and user feedback is given.
 
 # **Features to be Tested**
 
@@ -687,8 +689,6 @@ ensure that every puzzle is sovlable.
 
 The engine of the game\'s creation does not need to be tested in this
 test plan.
-
-## **UNIT TEST**
 
 # **Unit Test Strategy / Extent of Unit Testing:**
 
@@ -811,8 +811,10 @@ Bulk testing to be undertaken between 11/20-23/25
 See Requirements Document for specifics on the development process and
 the goals of this project.
 
-7.  Test Results are displayed by Subject, with data from cases 1-3
-    directly referencing rows 2-4 in above User-Acceptance Test Cases.
+## **7.  Test Results**
+
+Test Results are displayed by Subject, with data from cases 1-3
+directly referencing rows 2-4 in above User-Acceptance Test Cases.
 
 
   -----------------------------------------------------------------------
@@ -830,29 +832,29 @@ the goals of this project.
   E                       3:40                    2:44
   -----------------------------------------------------------------------
 
-8.  I experienced some great obstacles in developing this video game,
-    especially due to my lack of experience using the engine and in ways
-    of how I wanted to design certain aspects of the project. I found
-    that there were many design implementations I wished to include in
-    the final product, but constraints such as time and lack of
-    technical knowledge of the system greatly inhibited my progress
-    along the way.
+## **8. Challenges Overcome**
 
-9.  In the future, I would like to expand on this project and even
-    create more projects within the Unreal Engine 5 system because video
-    games are my passion. I would love to learn more about the
-    intricacies and finer tunings of the software so that I can fully
-    implement my original design ideas to enhance the experience and
-    realize my visions.
+I experienced some great obstacles in developing this video game,
+especially due to my lack of experience using the engine and in ways
+of how I wanted to design certain aspects of the project. I found
+that there were many design implementations I wished to include in
+the final product, but constraints such as time and lack of
+technical knowledge of the system greatly inhibited my progress
+along the way.
 
-10. [[Puzzleheart - Project Presentation - Brayden Kirkland.pptx -
+## **9. Future Enhancements**
+
+In the future, I would like to expand on this project and even
+create more projects within the Unreal Engine 5 system because video
+games are my passion. I would love to learn more about the
+intricacies and finer tunings of the software so that I can fully
+implement my original design ideas to enhance the experience and
+realize my visions.
+
+## **10. Defense Presentation Slides**
+
+[[Puzzleheart - Project Presentation - Brayden Kirkland.pptx -
     Google
     Slides]{.underline}](https://docs.google.com/presentation/d/1ftQpa0dji_PQXE9CT6avoCWAySOyYQOd/edit?slide=id.p1#slide=id.p1)
 
 [Back to Portfolio](./)
-
-
-
-
-
-
