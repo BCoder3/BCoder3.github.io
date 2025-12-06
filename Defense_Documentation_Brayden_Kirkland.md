@@ -658,7 +658,7 @@ Fig 2. An example of different map generation possibilities
 ![screenshot](images/Screenshot_2025-12-04_223543.png)  
 Fig 3. An example of different map generation possibilities
 
-[[BCoder3/SeniorProjectUnrealEngine: Repository containing the unreal engine project that comprises my senior project.]{.underline}](https://github.com/BCoder3/SeniorProjectUnrealEngine/tree/main)
+[BCoder3/SeniorProjectUnrealEngine: Repository containing the unreal engine project that comprises my senior project.](https://github.com/BCoder3/SeniorProjectUnrealEngine/tree/main)
 
 **Product**
 
@@ -862,6 +862,7 @@ realize my visions.
 [Puzzleheart - Project Presentation - Brayden Kirkland.pptx - Google Slides](https://docs.google.com/presentation/d/1ftQpa0dji_PQXE9CT6avoCWAySOyYQOd/edit?slide=id.p1#slide=id.p1)
 
 [Back to Portfolio](./)
+
 
 
 
