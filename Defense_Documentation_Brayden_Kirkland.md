@@ -104,7 +104,7 @@ Supporting Materials:
 
 History: Development log
 
-## **Requirement #: 2**
+**Requirement #: 2**
 
 Requirement Type: Functional
 
@@ -131,7 +131,7 @@ Supporting Materials:
 
 History: Development log
 
-## **Requirement #: 3**
+**Requirement #: 3**
 
 Requirement Type: Functional
 
@@ -158,7 +158,7 @@ Supporting Materials:
 
 History: Development log
 
-## **Requirement #: 4**
+**Requirement #: 4**
 
 Requirement Type: Functional
 
@@ -185,7 +185,7 @@ Supporting Materials:
 
 History: Development log
 
-## **Requirement #: 5**
+**Requirement #: 5**
 
 Requirement Type: Functional
 
@@ -212,7 +212,7 @@ Supporting Materials:
 
 History: Development log
 
-## **Requirement #: 6**
+**Requirement #: 6**
 
 Requirement Type: Functional
 
@@ -240,7 +240,7 @@ Supporting Materials:
 
 History: N/A
 
-## **Requirement #: 7**
+**Requirement #: 7**
 
 Requirement Type: Functional
 
@@ -270,7 +270,7 @@ Supporting Materials:
 
 History: N/A
 
-## **Requirement #: 8**
+**Requirement #: 8**
 
 Requirement Type: Functional
 
@@ -299,7 +299,7 @@ Supporting Materials:
 
 History: N/A
 
-## **Requirement #: 9**
+**Requirement #: 9**
 
 Requirement Type: Functional
 
@@ -328,7 +328,7 @@ Supporting Materials:
 
 History: N/A
 
-## **Requirement #: 10**
+**Requirement #: 10**
 
 Requirement Type: Functional
 
@@ -355,7 +355,7 @@ Supporting Materials:
 
 History: N/A
 
-## **Requirement #: 11**
+**Requirement #: 11**
 
 Requirement Type: Functional
 
@@ -382,7 +382,7 @@ Supporting Materials:
 
 History: Logged time to completion for each test user\'s test run
 
-## **Requirement #: 12**
+**Requirement #: 12**
 
 Requirement Type: Functional
 
@@ -409,7 +409,7 @@ Supporting Materials:
 
 History: Feedback logged
 
-## **Requirement #: 13**
+**Requirement #: 13**
 
 Requirement Type: Non-Functional
 
@@ -437,7 +437,7 @@ Supporting Materials:
 
 History: Development logs
 
-## **Requirement #: 14**
+**Requirement #: 14**
 
 Requirement Type: Non-Functional
 
@@ -465,7 +465,7 @@ Supporting Materials:
 
 History: Development Logs
 
-## **Requirement #: 15**
+**Requirement #: 15**
 
 Requirement Type: Non-Functional
 
@@ -492,7 +492,7 @@ Supporting Materials:
 
 History: Development Logs
 
-## **Requirement #: 16**
+**Requirement #: 16**
 
 Requirement Type: Functional
 
@@ -519,7 +519,7 @@ Supporting Materials:
 
 History: Development Logs
 
-## **Requirement #: 17**
+**Requirement #: 17**
 
 Requirement Type: Functional
 
@@ -543,7 +543,7 @@ Supporting Materials:
 
 History: Development Logs
 
-## **Requirement #: 18**
+**Requirement #: 18**
 
 Requirement Type: Non-Functional
 
@@ -569,7 +569,7 @@ Supporting Materials:
 
 History: Development Logs
 
-## **Requirement #: 19**
+**Requirement #: 19**
 
 Requirement Type: Non-Functional
 
@@ -595,7 +595,7 @@ Supporting Materials:
 
 History: Development Logs
 
-## **Requirement #: 20**
+**Requirement #: 20**
 
 Requirement Type: Non-Functional
 
@@ -621,7 +621,7 @@ Supporting Materials:
 
 History: Development Logs
 
-## **Requirement #: 21**
+**Requirement #: 21**
 
 Requirement Type: Non-Functional
 
@@ -849,4 +849,5 @@ the goals of this project.
     Slides]{.underline}](https://docs.google.com/presentation/d/1ftQpa0dji_PQXE9CT6avoCWAySOyYQOd/edit?slide=id.p1#slide=id.p1)
 
 [Back to Portfolio](./)
+
 
