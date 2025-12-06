@@ -756,37 +756,12 @@ displayed at all times during gameplay
 
 **User-Acceptance Test Cases**
 
-  -------------------------------------------------------------------------
-  **\#**   **TEST ITEM**     **EXPECTED         **ACTUAL      **DATE**
-                             RESULTS**          RESULTS**     
-  -------- ----------------- ------------------ ------------- -------------
-  1        User can finish   Game should be     Possible      10/30/25
-           game              able to be                       
-                             completed                        
-
-  2        Time taken for    Variable by        Results vary. 11/20-23/25
-           user to finish    tester, around 2-4 Around 3-4    
-           first game        minutes            minutes       
-           playthrough                                        
-
-  3        Time taken for    Variable by        Results vary. 11/20-23/25
-           user to finish    tester, around 2-3 Around 2-3    
-           second game       minutes, but       minutes. Vast 
-           playthrough       shorter than given majority made 
-                             tester's first     shorter times 
-                             playthrough time   on second     
-                                                playthrough   
-
-  4        User provides     Variable by        Testers gave  11/23/25
-           feedback on       tester, expecting  ideas that    
-           experience        positive and       were          
-                             constructive       implemented   
-                             feedback           into the      
-                                                final product 
-                                                in order to   
-                                                elevate the   
-                                                experience    
-  -------------------------------------------------------------------------
+| #  | TEST ITEM              | EXPECTED RESULTS                          | ACTUAL RESULTS                          | DATE       |
+|----|------------------------|-------------------------------------------|-----------------------------------------|------------|
+| 1  | User can finish game   | Game should be able to be completed       | Possible                                | 10/30/25   |
+| 2  | Time taken for user to finish first game playthrough | Variable by tester, around 2–4 minutes   | Results vary. Around 3–4 minutes        | 11/20–23/25|
+| 3  | Time taken for user to finish second game playthrough | Variable by tester, around 2–3 minutes, but shorter than tester’s first playthrough time | Results vary. Around 2–3 minutes. Vast majority made shorter times on second playthrough | 11/20–23/25|
+| 4  | User provides feedback on experience | Variable by tester, expecting positive and constructive feedback | Testers gave ideas that were implemented into the final product in order to elevate the experience | 11/23/25   |
 
 **Test Deliverables**
 
@@ -862,6 +837,7 @@ realize my visions.
 [Puzzleheart - Project Presentation - Brayden Kirkland.pptx - Google Slides](https://docs.google.com/presentation/d/1ftQpa0dji_PQXE9CT6avoCWAySOyYQOd/edit?slide=id.p1#slide=id.p1)
 
 [Back to Portfolio](./)
+
 
 
 
