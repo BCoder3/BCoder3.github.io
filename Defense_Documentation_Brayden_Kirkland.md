@@ -4,7 +4,7 @@
 
 1.  [Statement of Purpose (with the Problem Statement)](#1-statement-of-purpose)
 
-2.  [Research & Background](#2-research-&-background)
+2.  [Research & Background](#2-research--background)
 
 3.  [Project Language(s), Software, and Hardware](#3-project-languages-software-and-hardware)
 
@@ -809,6 +809,7 @@ realize my visions.
 [Puzzleheart - Project Presentation - Brayden Kirkland.pptx - Google Slides](https://docs.google.com/presentation/d/1ftQpa0dji_PQXE9CT6avoCWAySOyYQOd/edit?slide=id.p1#slide=id.p1)
 
 [Back to Portfolio](./)
+
 
 
 
