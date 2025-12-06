@@ -10,14 +10,7 @@
 
 4.  Project Requirements
 
-5.  Project Implementation Description & Explanation *This section
-    details the design and features in paragraph form with references to
-    the following:*
-
-    a.  screenshots with numbered captions (e.g., *Fig 1. The loading
-        screen.*)
-
-    b.  a link to the source code repository
+5.  Project Implementation Description & Explanation
 
 6.  Test Plan
 
@@ -857,6 +850,7 @@ the goals of this project.
     Slides]{.underline}](https://docs.google.com/presentation/d/1ftQpa0dji_PQXE9CT6avoCWAySOyYQOd/edit?slide=id.p1#slide=id.p1)
 
 [Back to Portfolio](./)
+
 
 
 
