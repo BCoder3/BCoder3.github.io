@@ -2,25 +2,25 @@
 
 ## **Defense Documentation**
 
-1.  [Statement of Purpose (with the Problem Statement)](#**1.--Statement-of-Purpose**)
+1.  [Statement of Purpose (with the Problem Statement)](#1--statement-of-purpose)
 
-2.  [Research & Background](#**2.--Research-&-Background**)
+2.  [Research & Background](#2--research-&-background)
 
-3.  [Project Language(s), Software, and Hardware](#**3.--Project-Language(s),-Software,-and-Hardware**)
+3.  [Project Language(s), Software, and Hardware](#3--project-languages-software-and-hardware)
 
-4.  [Project Requirements](#**4.--Project-Requirements**)
+4.  [Project Requirements](#4--project-requirements)
 
-5.  [Project Implementation Description & Explanation](#**5.--Project-Implementation-Description-&-Explanation**)
+5.  [Project Implementation Description & Explanation](#5--project-implementation-description--explanation)
 
-6.  [Test Plan](#**6.--Test-Plan**)
+6.  [Test Plan](#6--test-plan)
 
-7.  [Test Results](#**7.--Test-Results**)
+7.  [Test Results](#7--test-results)
 
-8.  [Challenges Overcome](#**8.--Challenges-Overcome**)
+8.  [Challenges Overcome](#8--challenges-overcome)
 
-9.  [Future Enhancements](#**9.--Future-Enhancements**)
+9.  [Future Enhancements](#9--future-enhancements)
 
-10. [Defense Presentation Slides](#**10.-Defense-Presentation-Slides**)
+10. [Defense Presentation Slides](#10-defense-presentation-slides)
 
 <!-- -->
 
@@ -864,6 +864,7 @@ realize my visions.
     Slides]{.underline}](https://docs.google.com/presentation/d/1ftQpa0dji_PQXE9CT6avoCWAySOyYQOd/edit?slide=id.p1#slide=id.p1)
 
 [Back to Portfolio](./)
+
 
 
 
