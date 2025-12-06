@@ -4,23 +4,23 @@
 
 1.  [Statement of Purpose (with the Problem Statement)](#**1.-Statement-of-Purpose**)
 
-2.  Research & Background
+2.  [Research & Background](#**2.-Research-&-Background**)
 
-3.  Project Language(s), Software, and Hardware
+3.  [Project Language(s), Software, and Hardware](#**3.-Project-Language(s),-Software,-and-Hardware**)
 
-4.  Project Requirements
+4.  [Project Requirements](#**4.-Project-Requirements**)
 
-5.  Project Implementation Description & Explanation
+5.  [Project Implementation Description & Explanation](#**5.-Project-Implementation-Description-&-Explanation**)
 
-6.  Test Plan
+6.  [Test Plan](#**6.-Test-Plan**)
 
-7.  Test Results
+7.  [Test Results](#**7.-Test-Results**)
 
-8.  Challenges Overcome
+8.  [Challenges Overcome](#**8.-Challenges-Overcome**)
 
-9.  Future Enhancements
+9.  [Future Enhancements](#**9.-Future-Enhancements**)
 
-10. Defense Presentation Slides
+10. [Defense Presentation Slides](#**10.-Defense-Presentation-Slides**)
 
 <!-- -->
 
@@ -864,6 +864,7 @@ realize my visions.
     Slides]{.underline}](https://docs.google.com/presentation/d/1ftQpa0dji_PQXE9CT6avoCWAySOyYQOd/edit?slide=id.p1#slide=id.p1)
 
 [Back to Portfolio](./)
+
 
 
 
