@@ -10,7 +10,7 @@
 
 4.  [Project Requirements](#4-project-requirements)
 
-5.  [Project Implementation Description & Explanation](#5-project-implementation-description--explanation)
+5.  [Project Implementation Description, and Explanation](#5-project-implementation-description-and-explanation)
 
 6.  [Test Plan](#6-test-plan)
 
@@ -862,6 +862,7 @@ realize my visions.
 [Puzzleheart - Project Presentation - Brayden Kirkland.pptx - Google Slides](https://docs.google.com/presentation/d/1ftQpa0dji_PQXE9CT6avoCWAySOyYQOd/edit?slide=id.p1#slide=id.p1)
 
 [Back to Portfolio](./)
+
 
 
 
