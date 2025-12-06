@@ -24,51 +24,57 @@
 
 <!-- -->
 
-1.  People should act more rationally and think more logically when
-    looking at problems that can be solved within reason, and this can
-    be taught through the unassuming medium of a video game. Nearly
-    every day, I see the consequences of people, who should know better,
-    making illogical and irrational decisions.
+## **1. Statement of Purpose**
 
-> I want to make people see the world in a different light; to be more
-> open and reasonable, to think logically, and I also want to entertain.
-> Through this mode of thinking, the world would be a kinder place, full
-> of empathy, compassion, and understanding, and this is the ideal state
-> of affairs.
->
-> My solution to this problem is the development of a video game. My
-> intention with this solution is to mold the minds of those who
-> experience it to solve the problem discussed above, and to have fun
-> learning.
+People should act more rationally and think more logically when
+looking at problems that can be solved within reason, and this can
+be taught through the unassuming medium of a video game. Nearly
+every day, I see the consequences of people, who should know better,
+making illogical and irrational decisions.
 
-2.  A great deal of personal research has gone into the development of
-    this video game, as I have had no prior knowledge on game-making
-    until beginning its development last year, and one class in high
-    school. I have yet to learn the most intricate techniques more
-    seasoned developers have utilized in the engine I have been building
-    with, Unreal Engine 5, but the base knowledge on the program I have
-    gathered thus far is indispensable. I have watched hours of
-    tutorials and beginner's guides to learn how best to use this
-    program and to create even further beyond what I am developing now
-    for this project.
+I want to make people see the world in a different light; to be more
+open and reasonable, to think logically, and I also want to entertain.
+Through this mode of thinking, the world would be a kinder place, full
+of empathy, compassion, and understanding, and this is the ideal state
+of affairs.
 
-3.  The development engine I am using for my project is Unreal Engine 5
-    (UE5), the fifth installment of a video game development system by
-    Epic Games. It utilizes a block-coding methodology for the majority
-    of the work done within it, but behind the scenes - and also
-    directly manipulatable - it runs on C++. In addition to the standard
-    libraries, packages, and assets found within the base UE5 studio, I
-    have gathered many assets used in my project from the Fab database,
-    an often-used plugin for UE5, all of which are licensing free.
-    Lastly, I am using GitHub for version control, since UE5 has a
-    partnership program alongside GitHub, with a built-in plugin
-    available for download. As for hardware, most modern computing
-    systems can at least moderately handle the development studio
-    itself, as I am using my personal computer to develop the project,
-    but there is no particular hardware required to run the game other
-    than a mouse, keyboard, and visual monitor on a computer device.
+My solution to this problem is the development of a video game. My
+intention with this solution is to mold the minds of those who
+experience it to solve the problem discussed above, and to have fun
+learning.
 
-4.  
+## **2. Research and Background**
+
+A great deal of personal research has gone into the development of
+this video game, as I have had no prior knowledge on game-making
+until beginning its development last year, and one class in high
+school. I have yet to learn the most intricate techniques more
+seasoned developers have utilized in the engine I have been building
+with, Unreal Engine 5, but the base knowledge on the program I have
+gathered thus far is indispensable. I have watched hours of
+tutorials and beginner's guides to learn how best to use this
+program and to create even further beyond what I am developing now
+for this project.
+
+## **3. Project Language(s), Software, and Hardware**
+
+The development engine I am using for my project is Unreal Engine 5
+(UE5), the fifth installment of a video game development system by
+Epic Games. It utilizes a block-coding methodology for the majority
+of the work done within it, but behind the scenes - and also
+directly manipulatable - it runs on C++. In addition to the standard
+libraries, packages, and assets found within the base UE5 studio, I
+have gathered many assets used in my project from the Fab database,
+an often-used plugin for UE5, all of which are licensing free.
+Lastly, I am using GitHub for version control, since UE5 has a
+partnership program alongside GitHub, with a built-in plugin
+available for download. As for hardware, most modern computing
+systems can at least moderately handle the development studio
+itself, as I am using my personal computer to develop the project,
+but there is no particular hardware required to run the game other
+than a mouse, keyboard, and visual monitor on a computer device.
+
+## **4. Project Requirements**
 
 **Requirement #: 1**
 
@@ -858,3 +864,4 @@ realize my visions.
     Slides]{.underline}](https://docs.google.com/presentation/d/1ftQpa0dji_PQXE9CT6avoCWAySOyYQOd/edit?slide=id.p1#slide=id.p1)
 
 [Back to Portfolio](./)
+
